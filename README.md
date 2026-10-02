@@ -1,0 +1,2 @@
+# premium-priv-pia-001-privacy-impact-assessment-temp
+Privacy assessments shouldn't require hiring a consultant or spending weeks building spreadsheets from scratch. The Privacy Impact Assessment Template gives you a battle-tested framework to systematically evaluate data risks, compliance gaps, and mitigation strategies—in Notion, where your engineering team already works.  Stop treating privacy as a
